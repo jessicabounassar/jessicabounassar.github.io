@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Jessica Bou Nassar"
 description              : &description "PhD Candidate"
 url                      : jessicabounassar.github.io
-baseurl                  : "/website"
+baseurl                  : ""
 repository               : "jessicabounassar/jessicabounassar.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
