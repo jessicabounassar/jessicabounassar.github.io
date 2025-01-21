@@ -92,6 +92,14 @@ Guest Lectures
 
 * BREE 420 - Engineering for Sustainability, McGill University (Feb 2021)
   
-Service and leadership
+Collaborations
 ======
-* Currently signed in to 43 different slack teams
+* Interdisciplinary Internet Institute (IN3), The Open University of Catalonia, Spain (October 2023 - Present)
+* Instituto de Agricultura, Recursos Naturales y Ambiente (IARNA), Rafael Landivar University, Guatemala (2018 - 2021)
+
+Awards and scholarships
+======
+* Monash Data Futures Institute PhD Scholarship (2022-2025)
+* Social Sciences and Humanities Research Council of Canada (2018-2021)
+* Graduate Excellence Award in Bioresource Engineering (2018-2020)
+* GREAT Award-Bioresource Engineering (2019)
