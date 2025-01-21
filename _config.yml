@@ -12,7 +12,7 @@ title                    : "Jessica Bou Nassar"
 title_separator          : "-"
 name                     : &name "Jessica Bou Nassar"
 description              : &description "PhD Candidate"
-url                      : jessicabounassar.github.io
+url                      : https://jessicabounassar.github.io
 baseurl                  : ""
 repository               : "jessicabounassar.github.io"
 
