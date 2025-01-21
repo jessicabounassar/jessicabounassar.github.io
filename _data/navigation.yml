@@ -7,12 +7,11 @@
 main:
   - title: "Research"
     url: /research/
-
-  - title: "Blog"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
+  - title: "Blog"
+    url: /year-archive/
 
 
