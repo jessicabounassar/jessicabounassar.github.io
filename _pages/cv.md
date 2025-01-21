@@ -80,11 +80,17 @@ Ramírez, M., **Bou Nassar, J.**, Malard, J., Tuy Yax, H., & Adamowski, J. F. (2
 
 **Bou Nassar, J.**, Malard, J., Ramírez, M., Baig, A. I., Adamowski, J. F., & Tuy Yax, H. (2019, May). Cadre méthodologique pour l'intégration de la narration avec un modèle de dynamique des systèmes comme système d’aide à la décision: Étude de cas à Tz’olöj Ya’, au Guatemala Maya. 87e Congrès de l’ACFAS, Gatineau, Québec, Canada.
   
-Teaching
+Guest Lectures
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+* Interdisciplinary Internet Institute (IN3) (May 2024)
+
+* FIT 5086 - Organisational Informatics, Monash University (April 2024)
+
+* BREE 420 - Engineering for Sustainability, McGill University (Feb 2021)
   
 Service and leadership
 ======
