@@ -61,11 +61,24 @@ Barzegar, R., Asghari Moghaddam, A., Tziritis, E., Adamowski, J., **Bou Nassar, 
 
 Barzegar, R., Asghari Moghaddam, A., Norallahi, S., Inam, A., Adamowski, J., Alizadeh, M. R., & **Bou Nassar, J.** (2019). Modification of the DRASTIC framework for mapping groundwater vulnerability zones. Groundwater. https://doi.org/10.1111/gwat.12919 
   
-Talks
+Presentations
 ======
+[_Conference talks and posters with or without accompanied proceedings_]
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+  
+**Bou Nassar, J.**, Goodwin, S., Sharp, D., Anwar, M., & Bartram, L. (2023, October). The use of causal loop diagrams to explore people-centred data governance in Australian cities. IEEE VIS 2023: Workshop Paper.
+
+**Bou Nassar, J.**, Malard, J., Adamowski, J., Ramírez Ramírez, M., & Tuy, H. (2020, October 9). The development of multi-level storylines to ensure the inclusion of marginalized communities in participatory sociohydrological modelling: A case study in Tz’olöj Ya’, Guatemala. CSBE Webinar Series.
+
+**Bou Nassar, J.**, Malard, J., Adamowski, J., Ramírez Ramírez, M., & Tuy, H. (2020, May 4–8). The use of interdisciplinary storylines to ensure the inclusiveness of marginalized stakeholders in participatory sociohydrological modelling: A case study in Tz’olöj Ya’, Mayan Guatemala. EGU General Assembly 2020, Online. EGU2020-11178. https://doi.org/10.5194/egusphere-egu2020-11178 
+
+Malard, J., **Bou Nassar, J.**, Adamowski, J., Ramírez Ramírez, M., & Tuy, H. (2020, May 4–8). Storytelling and participatory system dynamics modelling for water resources management in Lake Atitlán of Tz'olöj Ya' in Mayan Guatemala. EGU General Assembly 2020, Online. EGU2020-11483. https://doi.org/10.5194/egusphere-egu2020-11483 
+
+Ramírez, M., **Bou Nassar, J.**, Malard, J., Tuy Yax, H., & Adamowski, J. F. (2019, May). Proposition d’une méthodologie inclusive de toutes les connaissances pour le développement de modèles hydrologiques: Étude de cas du lac Atitlán. 87e Congrès de l’ACFAS, Gatineau, Québec, Canada.
+
+**Bou Nassar, J.**, Malard, J., Ramírez, M., Baig, A. I., Adamowski, J. F., & Tuy Yax, H. (2019, May). Cadre méthodologique pour l'intégration de la narration avec un modèle de dynamique des systèmes comme système d’aide à la décision: Étude de cas à Tz’olöj Ya’, au Guatemala Maya. 87e Congrès de l’ACFAS, Gatineau, Québec, Canada.
   
 Teaching
 ======
