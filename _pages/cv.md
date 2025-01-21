@@ -36,17 +36,6 @@ Experience
   * The use of geophysical methods to investigate aquifers
   * Treating olive mill wastewater using microbial fuel cell biotechnology
 
-
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
 [_Refereed journal papers_]
