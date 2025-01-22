@@ -5,32 +5,37 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
 
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+<div class="research-container">
+  <section class="research-project">
+    <img src="images/project1.jpg" alt="Project 1" />
+    <div class="project-info">
+      <h2>Project 1 Title</h2>
+      <p>Description of project. Lorem ipsum etc.</p>
+      <p><a href="pdf/project1.pdf">PDF</a> | <a href="https://github.com/username/project1">GitHub</a></p>
+    </div>
+  </section>
+  <!-- Repeat for other projects -->
+</div>
+/* research.css or inside a <style> tag */
+.research-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+.research-project {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 2rem;
+}
+.research-project img {
+  max-width: 200px;
+  margin-right: 1rem;
+  border-radius: 4px;
+}
+.project-info {
+  flex: 1;
+}
+.project-info h2 {
+  margin-top: 0;
+}
