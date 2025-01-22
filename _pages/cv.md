@@ -39,9 +39,6 @@ Experience
 Publications
 ======
 [_Refereed journal papers_]
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 **Bou Nassar, J.**, Calleja-López, A., Goodwin, S., Sharp, D., Anwar, M., & Bartram, L. (2025). Characterising and reassessing people-centred data governance in cities. Frontiers in Sustainable Cities. https://doi.org/10.3389/frsc.2024.1518618 
 
@@ -64,9 +61,6 @@ Barzegar, R., Asghari Moghaddam, A., Norallahi, S., Inam, A., Adamowski, J., Ali
 Presentations
 ======
 [_Conference talks and posters with or without accompanied proceedings_]
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 **Bou Nassar, J.**, Goodwin, S., Sharp, D., Anwar, M., & Bartram, L. (2023, October). The use of causal loop diagrams to explore people-centred data governance in Australian cities. IEEE VIS 2023: Workshop Paper.
 
@@ -82,9 +76,6 @@ Ramírez, M., **Bou Nassar, J.**, Malard, J., Tuy Yax, H., & Adamowski, J. F. (2
   
 Guest Lectures
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 * Interdisciplinary Internet Institute (IN3) (May 2024)
 
